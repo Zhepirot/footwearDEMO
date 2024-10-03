@@ -1,2 +1,1 @@
-# footwearDEMO
- demo for ar filter 
+# camera_kit_demo
